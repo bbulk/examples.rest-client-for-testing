@@ -20,7 +20,7 @@ public class MyRestClientTest {
     }
 
     @Test
-    public void callSomeUrlTest() {
+    public void testMyService() {
         // given
         restClient.createSomeInformation("myTestData");
 
